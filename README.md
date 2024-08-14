@@ -1,11 +1,20 @@
+# IMPORTANT NOTICE
+
+This library was originally created by @coconut-xr. However, the code was migrated to uikit and react-three/xr under the pmndrs umbrella.
+
+Since <mark>the original repo as well as the npm library have been deleted</mark>, I have re-uploaded the code here. <b>Only use this library if you had already created a project with the original library and need it to keep working!</b> Do not add this library to your project if you don't need to, as <mark>I am not actively maintaining it</mark>. Also, the original documentation has been deleted by the creators of the library.
+
+The only thing I changed from the original code was the location of the plop sound, as it was externally hosted. The original file location does not exist anymore, which broke my code, so now the mp3 file is bundled directly with this library.
+
+
+---
+
 # @coconut-xr/natuerlich
 
 [![Version](https://img.shields.io/npm/v/@coconut-xr/natuerlich?style=flat-square)](https://npmjs.com/package/@coconut-xr/natuerlich)
 [![License](https://img.shields.io/github/license/coconut-xr/natuerlich.svg?style=flat-square)](https://github.com/coconut-xr/natuerlich/blob/master/LICENSE)
 [![Twitter](https://img.shields.io/twitter/follow/coconut_xr?style=flat-square)](https://twitter.com/coconut_xr)
 [![Discord](https://img.shields.io/discord/1087727032240185424?style=flat-square&label=discord)](https://discord.gg/RbyaXJJaJM)
-
-<img src="./docs/static/images/header.jpg" width="100%">
 
 
 _WebXR Interaction for Three.js_

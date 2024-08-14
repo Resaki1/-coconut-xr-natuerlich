@@ -76,5 +76,6 @@
     "three": "^0.154.0",
     "typescript": "^4.9.3",
     "zustand": "~4.3.2"
-  }
+  },
+  "types": "./dist/index.d.ts"
 }
